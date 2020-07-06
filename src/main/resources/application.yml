@@ -1,0 +1,3 @@
+spring.cloud.config.server.git.uri: https://github.com/a-shn/SpringCloudConfigData
+server:
+  port: 8001
